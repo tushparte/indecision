@@ -5,7 +5,7 @@
 You need to have yarn installed on your local machine.
 
 ```bash
-cd indecision-app
+cd indecision
 yarn install
 yarn run build
 ```
